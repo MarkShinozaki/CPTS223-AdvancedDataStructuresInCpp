@@ -1,2 +1,2 @@
-Mark Shinozaki 
-11672355
+# CPTS223 - WASHINGTON STATE UNIVERISTY 
+## C++ - Advanced Data Structures
