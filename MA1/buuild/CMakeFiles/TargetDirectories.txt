@@ -1,3 +1,0 @@
-/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/buuild/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/buuild/CMakeFiles/edit_cache.dir
-/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/buuild/CMakeFiles/MA1.dir
