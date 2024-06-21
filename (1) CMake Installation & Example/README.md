@@ -89,7 +89,15 @@ sudo apt install cmake
 brew install cmake
 ```
 
+### 3. After installation, verify that cmake is installed:
 
+```
+cmake --version
+```
+
+Check the following links for installing Homebrew on MacOS:
+- [Installing Homebrew on MacOS](https://www.igeeksblog.com/how-to-install-homebrew-on-mac/)
+- [OpenGL Compliation on Mac/Linux](https://cse.engineering.nyu.edu/cs653/OpenGLCompilationMacLinux8.pdf)
 
 
 
