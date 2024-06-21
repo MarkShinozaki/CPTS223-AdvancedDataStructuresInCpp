@@ -62,7 +62,7 @@ sudo apt install cmake
 
 ### 3. In `main.cpp`, use `adder` to compute `3 + 4`.
 
-### 4. In `CMakeLists.txt`, add `adder.cpp` to the `add_executable` statement
+### 4. In `CMakeLists.txt`, add `adder.cpp` to the `add_executable` statement:
 
 #### Original
 - add_executable(CPTS_223_CMake_Example main.cpp factorial.cpp message.cpp)
