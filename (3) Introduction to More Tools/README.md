@@ -82,5 +82,137 @@ int main( int argc, char* argv[] )
 - More filesystems (disks,etc) are just mounted under `/` somewhere
   - Command to add a disk is: `mount`
   - Removing is: `unmount`
-  - a
+  - All disks are in the devices directory: /dev
+  - Ex: `/dev/sda1`
+- Most of this is taken care of for you in a default Linux install from a distro
+  - But if you start using thumb drives or adding hard drives to your system, this shows up
+
+### Editing files
+- **The big three options:**
+
+- Vi
+- Emacs
+- Nano
+
+There’s plenty more options, but these are the big 3.
+
+
+### Building software via g++
+
+- Run the program `g++` and tell it which cpp files you want built. In simple programs, it’s just that simple. Options to include:
+
+-`-g` (leaves in debugging symbols)
+- `-Wall` (enables ALL warnings)
+- `-o` [filename] (tells g++ what to name the final program)
+- `-std=c++11` (tells g++ to use the c++11 language standard)
+
+Could be more specific and build object files (`*.o`), then link those. Great for larger programs with LONG build times. Can actually do partial rebuilds based on which source files have changed.
+
+### What is make?
+
+- A tool to help build software but platform dependent
+- Huge supply of documentation: [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
+- Rely on a “makefile” to specify the compilation details
+  - I.e., what are the source files, how to link them together
+- `make [target] → make build → make run → make test`
+- A tutorial: [Makefile Tutorial](https://makefiletutorial.com/)
+
+### What is CMake?
+- A Cross-platform Make tool using a compiler-independent and platform-independent method
+- CMake is not a build system. It is a build-system generator
+- CMake relies on a “CMakeLists.txt” file to generate makefile
+- You can use the same C++ project in Linux, MacOS, Windows with no or tiny modification
+- You can also develop your project in IDE
+- An example: [CPTS-223-Examples](https://github.com/DataOceanLab/CPTS-223-Examples)
+- Installation: [CMake Install](https://cmake.org/install/)
+- Comparison with make: [CMake vs Make](https://prateekvjoshi.com/2014/02/01/cmake-vs-make/)
+
+### GUI IDE options
+
+If you’ve got a desktop, there’s options for GUI tools:
+
+- CLion
+- netbeans
+- Code::Blocks
+- KDevelop
+- Eclipse
+- CodeLite IDE
+- Geany IDE
+- vscode
+
+### Git 
+
+- A distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers
+- Created by Linus for Linux kernel in 2005
+- Install on Ubuntu: `sudo apt install git`
+- SVN: a centralized version-control system. Good for big companies, requires a dedicated centralized server
+
+### The Git model
+
+#### GitHub - [GitHub](https://github.com/)
+
+- Consider it a central place for a copy of your repo to live. Web interface for management of things. You can push/pull commits to any remote repository, there’s no real difference between a server and a client. This is a truly distributed architecture.
+
+### How to get a copy of a repo is by “cloning” it
+
+#### Some Definitions
+
+- Staging changes for committing
+  - `git add or git rm`
+
+- Commits are only local until they’re pushed or cloned away
+- After adding (or rm’ing) and committing...
+
+#### What branch are you on at the moment? Just ask!
+- The default is `master/main`
+- Work on a different branch
+- Create a branch
+
+```
+git branch my-new-branch
+```
+  - It will create a branch based on the current commit you are at
+- Switch to a branch
+
+```
+git checkout my-new-branch
+```
+- It will search for the origin if your local one does not have such a branch
+
+#### Extra Material: Commands to know
+
+
+`git help` - manual for git & commands
+`git add` - add a file/changes to be tracked and staged by git
+`git commit` - comment and staged file(s)
+`git status` - review tracked & untracked file(s)
+`git diff` - show unstaged changes since last commit
+`git log` - show commit logs
+
+#### Git guide and GitHub cheat sheet on Canvas
+
+`git branch` - list, create, delete branches
+`git checkout` - switch branches and more
+`git fetch` - grab updates from remote and stage them in [remote]/[branch] branch
+`git merge` - attempt to combine [remote]/[branch] into current branch
+`git pull` - fetch and merge
+`git rebase` - reapply commits on top of another base tip
+
+#### Git GUI
+- SmartGit: Free for Non-commercial use
+- GitHub: Free
+- SourceTree: Free
+- And more: [Git GUIs](https://git-scm.com/downloads/guis)
+
+
+
+
+
+
+
+
+
+
+
+
 
