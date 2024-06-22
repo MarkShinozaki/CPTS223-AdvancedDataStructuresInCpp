@@ -43,7 +43,7 @@ Normally, computers are envisioned as onion layers or stacks
 - WinNT
 - Plan9
 
-[https://en.wikipedia.org/wiki/List_of_operating_systems](https://en.wikipedia.org/wiki/List_of_operating_systems)
+[List_of_operating_systems](https://en.wikipedia.org/wiki/List_of_operating_systems)
 
 
 ## WAIT! Isn’t Linux UNIX?
@@ -53,16 +53,16 @@ Normally, computers are envisioned as onion layers or stacks
 - Linux was modeled after Minix (a stripped down UNIX clone for education) and released by Linus Torvalds in October 1991
 - Linux was inspired by UNIX, but doesn’t share the same code
 - They do share many of the same philosophies though: [https://goo.gl/99Owcx](https://goo.gl/99Owcx)
-- There are still official UNIX OS releases: FreeBSD, OSX, others: [https://www.opengroup.org/openbrand/register/](https://www.opengroup.org/openbrand/register/)
+- There are still official UNIX OS releases: FreeBSD, OSX, others: - [https://www.opengroup.org/openbrand/register/](https://www.opengroup.org/openbrand/register/)
 
-[Ken Tompson & Dennie Ritchie](https://goo.gl/99Owcx)
-[https://www.opengroup.org/openbrand/register/](https://www.opengroup.org/openbrand/register/)
+- [Ken Tompson & Dennie Ritchie](https://goo.gl/99Owcx)
+- [https://www.opengroup.org/openbrand/register/](https://www.opengroup.org/openbrand/register/)
 
 
 
 ## Okay… so what’s that UNIX philosophy?
 
-[https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+- [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
 
 - Emphasis on building simple, short, clear, modular, and extensible code that can be easily maintained and repurposed by developers other than its creators
