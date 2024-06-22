@@ -5,8 +5,8 @@
 
 A lot of material for this course was adapted from Andrew S. O’Fallon’s, Aaron Crandall’s, Ananth Kalyanaraman’s and Jia Yu’s courses or developed concurrently with them
 
-[Aaron Crandalls](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
-[Ananth Kalyanaraman](https://www.eecs.wsu.edu/~ananth/)
+  - [Aaron Crandalls](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
+  - [Ananth Kalyanaraman](https://www.eecs.wsu.edu/~ananth/)
 
 
 ## Motivation for this introduction
