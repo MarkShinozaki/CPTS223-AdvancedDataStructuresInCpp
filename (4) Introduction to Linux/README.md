@@ -1,19 +1,13 @@
 
 # Intro to Linux and gcc/g++
 
-## CptS 223
-Washington State University
-
----
-
 ## Course Collaborators
 
 A lot of material for this course was adapted from Andrew S. O’Fallon’s, Aaron Crandall’s, Ananth Kalyanaraman’s and Jia Yu’s courses or developed concurrently with them
 
-[https://school.eecs.wsu.edu/people/faculty/aaron-crandall/](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
-[https://www.eecs.wsu.edu/~ananth/](https://www.eecs.wsu.edu/~ananth/)
+[Aaron Crandalls](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
+[Ananth Kalyanaraman](https://www.eecs.wsu.edu/~ananth/)
 
----
 
 ## Motivation for this introduction
 
@@ -24,19 +18,13 @@ Today we’re going to do a bit on:
 
 Goal: basics for completing assignments in this course
 
----
-
 ## Operating system (OS)?
 
 Short answer: It’s a program
 
----
-
 ## Diagram of OS
 
 Normally, computers are envisioned as onion layers or stacks
-
----
 
 ## Officially “Linux” is just a kernel
 
@@ -46,8 +34,6 @@ Normally, computers are envisioned as onion layers or stacks
 - Packaged together they become Linux distributions or “distros” like Debian, Ubuntu, Arch, SUSE, RedHat, etc.
 
 (Core of OS)
-
----
 
 ## Really, there are LOTS of operating systems
 
@@ -59,7 +45,6 @@ Normally, computers are envisioned as onion layers or stacks
 
 [https://en.wikipedia.org/wiki/List_of_operating_systems](https://en.wikipedia.org/wiki/List_of_operating_systems)
 
----
 
 ## WAIT! Isn’t Linux UNIX?
 
@@ -73,7 +58,7 @@ Normally, computers are envisioned as onion layers or stacks
 [Ken Tompson & Dennie Ritchie](https://goo.gl/99Owcx)
 [https://www.opengroup.org/openbrand/register/](https://www.opengroup.org/openbrand/register/)
 
----
+
 
 ## Okay… so what’s that UNIX philosophy?
 
@@ -82,7 +67,7 @@ The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and 
 
 - Emphasis on building simple, short, clear, modular, and extensible code that can be easily maintained and repurposed by developers other than its creators
 
----
+
 
 ## GUI vs. Command Line
 
@@ -95,7 +80,7 @@ The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and 
 
 [http://faculty.georgetown.edu/irvinem/theory/Stephenson-CommandLine-1999.pdf](http://faculty.georgetown.edu/irvinem/theory/Stephenson-CommandLine-1999.pdf)
 
----
+
 
 ## Why Linux and not [Fill in the blank]
 
@@ -109,7 +94,7 @@ Linux can be used for almost any computing environment
   - GUIs aren’t great over the network.
   - UNIX was built for multi-user and multi-tasks and Linux inherited that powerful structure
 
----
+
 
 ## Plus… Why is Linux free‽
 
@@ -129,7 +114,7 @@ We’ll talk about Open Source and Free Software during this class
 [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 [https://opensource.org/licenses](https://opensource.org/licenses)
 
----
+
 
 ## So, which Linux distro should I use?
 
@@ -140,11 +125,11 @@ We’ll talk about Open Source and Free Software during this class
 - Debian, Mint, Ubuntu, RedHat/Fedora/CentOS
   - If you feel like reaching: Arch, ElementaryOS, geez 100+ options: [http://futurist.se/gldt/wp-content/uploads/11.10/gldt1110.svg](http://futurist.se/gldt/wp-content/uploads/11.10/gldt1110.svg)
 
----
+
 
 ## There’s a whole lotta Linux distros out there
 
----
+
 
 ## Now… to sum up OSes:
 
@@ -154,11 +139,11 @@ We’ll talk about Open Source and Free Software during this class
 - The user starts in a shell (GUI or command line), which launches other applications as needed
 - Pick the right one for the job! But, I’m hoping that we can convince you of why Linux has taken over all serious lifting in the computer world
 
----
+
 
 ## Compilers
 
----
+
 
 ## The Compiler Concept
 
@@ -173,7 +158,7 @@ What is a compiler?
 Visual Studio has a compiler within the IDE called Visual C++
 - You’ve used it every time you “built” your programs
 
----
+
 
 ## There’s LOTS of compilers out there
 
@@ -188,7 +173,7 @@ To make a programming language useful (beyond a spec), you’ll need to build a 
 
 [https://en.wikipedia.org/wiki/List_of_compilers](https://en.wikipedia.org/wiki/List_of_compilers)
 
----
+
 
 ## So, the process of programming is:
 
@@ -201,7 +186,7 @@ You’ve been doing this all along inside of VS’ IDE, but here it’s going to
 2. Pass that text file to g++
 3. Run resulting file as a program
 
----
+
 
 ## Quick VirtualBox intro
 
