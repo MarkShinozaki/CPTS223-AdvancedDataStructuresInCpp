@@ -1,59 +1,159 @@
+# C++ Review
+
+## Purpose of Review
+- Review some basic C++
+- Familiarize us with Weiss’s style
+- Introduce specific constructs useful for implementing data structures
 
 
-## Course Expectations
-- Approach and solve problems differently, including typical interview questions.
-- Build programming skills to help secure an internship.
-- Dedication and hard work are expected.
+## Class
+- The Class defines the data structure and the operations that access and manipulate it
+  - Member data
+  - Member functions or methods
+- Encapsulation = data + methods
+- Information hiding
+  - Public vs. private
 
-## What is Computer Science?
-- **Definition:** The study of computers and computational systems with a focus on algorithms.
-- **Characteristics:**
-  - Intersects theory with practice.
-  - Requires abstract and concrete thinking.
-  - Not just about building computers but also planning, designing, and applying systems.
-  - Emphasizes algorithm efficiency and software performance.
-- **Areas of Study:** AI, Machine Learning, Networks, Graphics, Security, Big Data, Bioinformatics, Software Engineering, Computer Systems, Database Systems.
-
-## Algorithms in Computer Science
-- **Definition:** A sequence of instructions that solve a problem.
-- **Importance:** Algorithms automate solutions and can be repeated to solve problems.
-- **Properties of Algorithms:**
-  - Well-ordered, unambiguous, and effectively computable operations.
-  - Produces a result and halts in a finite amount of time.
-
-## Algorithm Structure
-- **Instructions:**
-  - Sequenced: Follow the order given.
-  - Conditional: Execute if a condition is true.
-  - Iterative: Continue while a condition holds.
-
-## High-Level Programming Languages
-- **Overview:** Languages like BASIC, Pascal, C++, and their relation to machine and natural languages.
-- **Key Points:**
-  - High-level languages need translation by compilers to run on machines.
-  - They often use pre-written code libraries (e.g., for math or I/O functions).
-  - Execution involves linking and loading stages to prepare the program for use.
-
-## Program Execution and Development
-- **Execution:** Programs run in a console where input is given and output is displayed.
-- **IDEs:** Tools like Microsoft Visual Studio simplify the process by integrating compilers, linkers, and editors, providing syntax highlighting, auto-completion, and debugging tools.
-
-## Course Next Steps
-- Focus on practical application of software development principles and learning programming languages like C.
+## Extra Syntax
+- Default parameters
+- Initializer list
+- Explicit constructor
+- Accessor methods
+- Constant member function, add: `const`
+- Mutator methods
 
 
-2. **Design:** Develop initial and refined algorithms for calculating the cone's volume.
-3. **Implementation:** Code the algorithm in C, managing inputs, and displaying the calculated volume.
-4. **Testing:** Test with various input values to observe outputs, emphasizing boundary conditions.
-5. **Maintenance:** Regular improvements and updates are essential for software longevity.
+## Default Parameters
+- Initializer List
+- Explicit Constructor
+- Accessor
 
-## Applying the Software Development Method
+```cpp
+IntCell obj;
+obj = 37;
+```
+- Mutator
 
-### Iterative Development
-- Encourages evolving solutions and learning through iterative refinement.
+## Separation of Interface and Implementation
+- Interface (.h) file
+  - Defines class and its member data and functions
+- Implementation (.cc or .cpp) file
+  - Provides implementations of member functions
 
-### Data Requirements and Design
-- Define the problem, data inputs, and outputs followed by a detailed algorithm design.
+## Example Files
+- IntCell class interface in file IntCell.h.
+  - Preprocessor Directives
+- IntCell class implementation in file IntCell.cpp.
+  - Preprocessor Directives
+  - Scoping Operator
+  - ClassName::member
+- Program using IntCell class in file TestIntCell.cpp.
+  - Preprocessor Directives
 
-### Implementation and Testing
-- Focus on coding the solution in C and verifying it through testing, not worrying initially about the details of C syntax.
+## C++ Details
+- Pointers
+- Parameter passing
+- Return passing
+- Reference variables
+- Destructor, copy constructor, operator=
+
+## Pointers
+- Address-of operator: `&`
+```cpp
+IntCell icObj;
+IntCell *m = &icObj;
+```
+- No automatic garbage collection in C++
+
+## Parameter Passing
+- Call by value
+  - Small objects not altered by function
+- Call by constant reference
+  - Large objects not altered by function
+- Call by reference
+  - Objects altered by function
+```cpp
+double avg (const vector<int> & arr, int n, bool & errorFlag);
+```
+
+## Return Passing
+- Make sure the object returned will persist after returning from the function call.
+
+## Reference Variables
+- Can be used for parameter passing
+- Also used as synonyms for the objects they reference
+- Avoid cost of copying
+
+```cpp
+string x = findMax (a);
+cout << x << endl;
+
+const string & x = findMax (a);
+cout << x << endl;
+``` 
+
+## Destructor, Copy Constructor, operator=
+- Default definitions for all classes
+- Destructor
+  - Called when object goes out of scope or subject to a delete
+  - By default, calls destructor on all data members
+  - Can use to delete objects created using new
+  - Can use to close any opened files.
+
+## Destructor, Copy Constructor, operator=
+- Copy constructor
+  - Declaration with initialization
+```cpp
+IntCell B = C;
+IntCell B (C);
+```
+- Object passed using call by value (instead of by `&` or `const &`)
+- Object returned by value (instead of by `&` or `const &`)
+- Simple assignment for all members with primitive data types (e.g., int, double, …)
+- Calls copy constructors on all member objects
+
+## Destructor, Copy Constructor, operator=
+- Copy assignment operator: operator=
+  - Called when objects on both sides of assignment already constructed
+  - By default, operator= called on each data member of objects
+```cpp
+IntCell B(0);
+IntCell C(1);
+B = C;
+```
+
+## Templates
+- Designing type-independent data structures and algorithms
+- Function templates
+- Class templates
+
+## Operator Overloading
+- Define the meaning of a built-in operator
+```cpp
+class IntCell {
+public:
+  bool operator< (const IntCell & rhs) const {
+    return storedValue < rhs.storedValue;
+  }
+
+  void print (ostream & out) const {
+    out << " IntCell(" << storedValue << ")";
+  }
+
+  ...
+}
+
+ostream & operator<< (ostream & out, const IntCell & rhs) {
+  rhs.print(out); 
+  return out;
+}
+```
+
+## Summary 
+- Basic C++
+- Templates
+- Tools for easing the 
+
+
+
+
