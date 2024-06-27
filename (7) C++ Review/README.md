@@ -154,6 +154,9 @@ ostream & operator<< (ostream & out, const IntCell & rhs) {
 - Templates
 - Tools for easing the 
 
+---
+
+### [CMake Installation & Example](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
 
 
 
