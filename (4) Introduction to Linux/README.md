@@ -193,3 +193,7 @@ You’ve been doing this all along inside of VS’ IDE, but here it’s going to
 - VirtualBox is a program to run operating systems on other operating systems!
 - These are called virtual machines (actually, the hardware is virtual, not the OS)
 - Can use it for testing OSes, virtual networks, trying different tools out, etc.
+
+---
+
+### [Next Section: Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux)
