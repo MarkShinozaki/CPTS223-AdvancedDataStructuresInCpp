@@ -1,8 +1,5 @@
 # (1 - 2) More Linux, Tools & Git
 
-## CptS 223
-Washington State University
-
 ### Options for Linux access
 
 - Install VirtualBox (or something else) and make a Virtual Linux machine
