@@ -22,3 +22,6 @@
 #### 9. If you would like to install a GUI for WSL, please use Google to find any others’ suggestion/experience, e.g., this youtube link: [**YouTube Video for GUI**](https://www.youtube.com/watch?v=nKCe9UE-quA&t=778s)
 
 
+---
+
+### [Next Section: Introduction to More Tools](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(3)%20Introduction%20to%20More%20Tools)
