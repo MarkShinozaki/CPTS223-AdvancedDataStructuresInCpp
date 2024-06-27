@@ -156,7 +156,7 @@ ostream & operator<< (ostream & out, const IntCell & rhs) {
 
 ---
 
-### [CMake Installation & Example](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
+### [First Section: CMake Installation & Example](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
 
 
 
