@@ -273,3 +273,6 @@ T(n-1) + T(n-2) + O(1)
 ### Exponential
 - T(n) = T(n-1) + T(n-2) + O(1) → O(1.6^n)
 
+---
+
+### [Next Section: Data Structure Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(6)%20Data%20Structure%20Review)
