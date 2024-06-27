@@ -204,7 +204,9 @@ git checkout my-new-branch
 - SourceTree: Free
 - And more: [Git GUIs](https://git-scm.com/downloads/guis)
 
+---
 
+### [Next Section: Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux)
 
 
 
