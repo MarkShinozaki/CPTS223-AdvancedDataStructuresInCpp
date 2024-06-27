@@ -133,3 +133,7 @@
 - **Simplification Techniques**
   - Emphasis on dropping constants and lower-order terms in Big-O analysis.
 
+---
+
+### [Next Section: Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types)
+
