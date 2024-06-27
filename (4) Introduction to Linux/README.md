@@ -196,4 +196,4 @@ You’ve been doing this all along inside of VS’ IDE, but here it’s going to
 
 ---
 
-### [Next Section: Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux)
+### [Next Section: Math Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(5)%20Math%20Review)
