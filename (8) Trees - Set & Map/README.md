@@ -1,7 +1,7 @@
 # STL Sets and Maps
 
 ## Introduction to Balanced BSTs
-Balanced Binary Search Trees (BSTs) are data structures that maintain sorted data for fast retrieval, insertion, and deletion. Common balanced BSTs include AVL trees, Splay trees, Red-Black trees, Scapegoat trees, and Treaps.
+- Balanced Binary Search Trees (BSTs) are data structures that maintain sorted data for fast retrieval, insertion, and deletion. Common balanced BSTs include AVL trees, Splay trees, Red-Black trees, Scapegoat trees, and Treaps.
 
 ## Balanced BSTs in STL: set and map
 - `vector` and `list` STL classes are inefficient for search operations.
@@ -88,9 +88,9 @@ for (map<const char*, int, ltstr>::iterator it = months.begin(); it != months.en
 - Use `map` when the record structure has fields other than the key, such as an employee record where the key is an ID, and the value includes other information like name and salary.
 
 ## Summary: Trees in STL
-Trees are ubiquitous in software and important for fast search operations.
-Balanced trees like those used in set and map classes support logarithmic insert, delete, and search operations.
-STL set and map classes use balanced Red-Black trees for their implementation.
+- Trees are ubiquitous in software and important for fast search operations.
+- Balanced trees like those used in `set` and `map` classes support logarithmic insert, delete, and search operations.
+- STL `set` and `map` classes use balanced Red-Black trees for their implementation.
 
 ---
 
