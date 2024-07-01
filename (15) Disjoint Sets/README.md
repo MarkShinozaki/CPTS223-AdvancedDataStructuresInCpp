@@ -135,3 +135,6 @@ void generateMaze(int mazeSize) {
 - Array-based implementation offers average-case $𝑂(1)$ time per operation.
 - Numerous applications in computer science and related fields.
 
+---
+
+### [Next Section: (16) Graphs](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs)
