@@ -71,6 +71,44 @@ int deleteMin() {
   - Performing `N` inserts.
   - Assuming the set is a heap and performing percolate-down from each internal node.
 
+```cpp
+void buildHeap(vector<int> &arr) {
+    size = arr.size();
+    for (int i = size / 2; i > 0; i--) {
+        percolateDown(i);
+    }
+}
+```
+
+### Binary Heap Operations Analysis
+- Insert: `O(log N)`
+- deleteMin: `O(log N)`
+- decreaseKey: `O(log N)`
+- increaseKey: `O(log N)`
+- BuildHeap: `O(N)`
+
+### Binomial Heaps
+- A forest of binomial trees, each satisfying the heap-order property.
+- **Efficient operations**:
+  - Insert: Amortized `O(1)`
+  - deleteMin: `O(log N)`
+  - Merge: `O(log N)`
+
+```cpp
+void insert(int x) {
+    BinomialHeap temp;
+    temp.heap.push_back(newNode(x));
+    heap = merge(heap, temp.heap);
+}
+```
+
+### Leftist Heaps
+- Maintain a deep left subtree and shallow right subtree to support efficient merge operations.
+- Operations include merge, insert, and deleteMin, all in `O(log N)` time.
+
+### Skew Heaps
+- A self-adjusting version of leftist heaps.
+- Operations include merge, insert, and deleteMin, with `O(log N)` amortized time.
 
 
 
