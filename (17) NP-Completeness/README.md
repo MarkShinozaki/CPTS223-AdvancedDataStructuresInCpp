@@ -84,23 +84,10 @@ void BFS(int start, vector<vector<int>>& adj) {
 ```
 
 Examples of NP-Complete Problems That Aren't Graph Algorithms
-Boolean Satisfiability Problem (SAT)
+1. Boolean Satisfiability Problem (SAT)
+  - Given a Boolean formula, determine if there is an assignment of truth values to variables that makes the formula true.
+  - Example: (𝑥 ∨ ¬ 𝑦 ) ∧ (𝑦 ∨ 𝑧)
 
-Given a Boolean formula, determine if there is an assignment of truth values to variables that makes the formula true.
-Example: 
-(
-𝑥
-∨
-¬
-𝑦
-)
-∧
-(
-𝑦
-∨
-𝑧
-)
-(x∨¬y)∧(y∨z).
 Knapsack Problem
 
 Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
