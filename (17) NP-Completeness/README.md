@@ -83,6 +83,92 @@ void BFS(int start, vector<vector<int>>& adj) {
 }
 ```
 
+Examples of NP-Complete Problems That Aren't Graph Algorithms
+Boolean Satisfiability Problem (SAT)
+
+Given a Boolean formula, determine if there is an assignment of truth values to variables that makes the formula true.
+Example: 
+(
+𝑥
+∨
+¬
+𝑦
+)
+∧
+(
+𝑦
+∨
+𝑧
+)
+(x∨¬y)∧(y∨z).
+Knapsack Problem
+
+Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+Example: Maximize value subject to weight constraints.
+Subset Sum Problem
+
+Given a set of integers, is there a non-empty subset whose sum is zero?
+Example: Given {3, -1, 7, 5}, find if any subset sums to zero.
+Partition Problem
+
+Determine if a given set of positive integers can be partitioned into two subsets with equal sums.
+Example: Given {1, 5, 11, 5}, determine if it can be split into two subsets with equal sums.
+3-SAT Problem
+
+A specific case of SAT where each clause in the formula has exactly three literals.
+Example: 
+(
+𝑥
+1
+∨
+¬
+𝑥
+2
+∨
+𝑥
+3
+)
+∧
+(
+¬
+𝑥
+1
+∨
+𝑥
+4
+∨
+¬
+𝑥
+3
+)
+(x 
+1
+​
+ ∨¬x 
+2
+​
+ ∨x 
+3
+​
+ )∧(¬x 
+1
+​
+ ∨x 
+4
+​
+ ∨¬x 
+3
+​
+ ).
+Job Scheduling Problem
+
+Given a set of jobs, each with a start time, end time, and profit, find the maximum profit subset of non-overlapping jobs.
+Example: Maximize profit by scheduling non-overlapping jobs.
+Bin Packing Problem
+
+Pack objects of different volumes into a finite number of bins or containers each of a fixed given volume in a way that minimizes the number of bins used.
+Example: Minimizing bins used for packing different-sized items.
+
 
 
 
