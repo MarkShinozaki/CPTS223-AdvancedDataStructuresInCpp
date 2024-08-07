@@ -1,287 +1,200 @@
 
-# CPTS122 - WASHINGTON STATE UNIVERISTY 
-## C/C++ - Data Structures - Course Topics Layout & Description
+# CPTS223 - WASHINGTON STATE UNIVERISTY 
+## C/C++ - Advanced Data Structures - Course Topics Layout & Description
 
 ### Topics for this course 
 
-#### 1. [Introduction](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(1)%20Introduction)
+#### 1. [Algorithm Analysis](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(1)%20Algorithm%20Analysis)
 
 **Lecture Topics:**
-- What is a Data Structure?
-- Data Structures Exposed
-- Review of Basic C Data Strucutures
-- Expanding Data Structure Knowledge
-- Basic Application of Dynamic Data Structures
-- Commonalities of C Dynamic Strucures
-- Self-Referential Structures
-- Dynamic Memory Allocation/De-Alloaction in C
-- Abstract Data Types (ADT)
+- Algorithm Definition and Purpose
+- Types of Analysis
+- Rate of Growth and Asymptotic Notations
+- Common Operations and Examples
+- Algorithm Examples and Analysis
+- Unique Topics in 4_algo_analysis.pdf
+
   
 ---
-#### 2. [Recursion](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion)
+#### 2. [Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types)
 
 **Lecture Topics:**
-- What is Recursion?
-- Key Attributes of Recursive Problems
-  - Base Case
-  - Recursive Case
-- Advantages/Disadvantages of Recursion
-- Examples in C/C++
-- Recursive Function Properties 
+- ADT's
+- Lists
+- Stacks
+- Queues
+- C++ Standard Template Library (STL)
 
 ---
 
-#### 3. [Pointers](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(3)%20Pointers)
+#### 3. [The Big Five](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(3)%20The%20Big%20Five)
 
 **Lecture Topics:**
-- What are Pointers?
-- Key Concepts of Pointers
-  - Pointer Declaration
-  - Pointer Initialization
-  - Dereferencing
-  - Pointer Arithmetic
-- Advantages/Disadvantages of pointers
-- Pointer Differences C/C++
-- Example: Basic Pointer usage
+- Separation of Interface and Implementation
+- Lvalues, Rvalues, and References
+- std::swap and std::move
+- The Big Five
+- Shallow vs Deep Copies
+- Destructor
+- Starting Algorithms & Analysis 
 
 ---
 
-#### 4. [Characters & Strings](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(4)%20Characters%20%26%20Strings)
+#### 4. [Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(4)%20Trees)
 
 **Lecture Topics:**
-- What are Characters & Strings?
-- String & Character Representation
-- Differences C/C++
-- Basic String Usage
-- Character Operations
-- String input & Output
+- Overvies of Trees
+- Tree Definitions
+- Tree Traversals
+- Expression Trees
+- Tree Implementations
+- Binary Trees 
 
 ---
 
-#### 5. [Linked Lists](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(5)%20Linked%20Lists)
+#### 5. [AVL Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(5)%20AVL%20Trees)
 
 **Lecture Topics:**
-- How do we select a Data Structure?
-- Definition of Linked List
-- Struct Node
-- Initializing a List
-- Checking for Empty List
-- Printing Data in List
-- Inserting Data at Front of List 
+- Balanced Binary Search Trees
+- Maintaining Balance
+- Insertions
+- Deletions
+- Lazy Deletion
+- Height Maintanence
+- AVL Tree Node Definition
+- AVL Tree Insert Function 
+
 ---
 
-#### 6. [Stacks](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(6)%20Stacks)
+#### 6. [Splay Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(6)%20Splay%20Trees)
 
 **Lecture Topics:**
-- What is a Stack ?
-- The Function-Call Stack
-- Stack Frames
-- The Heap
-- Initializing a Stack
-- Printing Stack
-- Inserting/Deleting from Stack 
+- Introduction to Splay Trees
+- Observations and Ideas
+- Strategy
+- Rotations for Splaying
+- Insertion in Splay Trees
+- Deletion in Splay Trees
+- Amortized Analysis 
 
 --- 
 
-#### 7. [Queues](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(7)%20Queues)
+#### 7. [B-Tree](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(7)%20B-Tree)
 
 **Lecture Topics:**
-- What is a Queue?
-- Linked List Implementations of Queues
-- Checking for Empty Queue in C
-- Printing Data in Queue in C
-- Queue Applications 
+- B Trees
+- B+ Trees
 
 ---
 
-#### 8. [Trees](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(8)%20Trees)
+#### 8. [Trees - Set & Map](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(8)%20Trees%20-%20Set%20%26%20Map)
 
 **Lecture Topics:**
-- What are Trees?
-- Node, Root, Edge, Leaf, Subtree, Binary Tree
-- Basic Tree Operations
-- Binary Tree Implementation in C
-  - Structure definition
-  - Insertion Function
-  - In-Order Traversal
-  - Main function
-- Binary Tree Implementation in C++
-- Key Differences Between C and C++ Implementations
-  - Memory Management
-  - Standard Libraries
-  - Syntax
+- Introduction to Balanced BSTs
+- Balanced BSTs in STL: set and map
+- STL set Class
+- Set Insertion
+- Set Deletion
+- Set Search
+- STL map Class
+- Example: Map Insert and Access
+- Map Operations
+- Implementations of set and map
+- When to use set and when to use map
+- Summary: Trees in STL
 
 ---
 
-#### 9. [Classes & Objects](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(9)%20Classes%20%26%20Objects)
+#### 9. [Trees - Red & Black](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(9)%20Trees%20-%20Red-Black)
 
 **Lecture Topics:**
-- Object Oriented Desing (OOD)
-- Object-oriented Programming
-- Class & Objects
-  - What is a class?
-  - What is an object?
-- Data Encapsulation
-- Abstraction/Information Hiding
-- Basics of C++ and I/O
-- References and Reference Parameters
-- Unary Scope Resoltion Operator
-- Function Overloading
-- Standard Template Library (STL)
-- Function Templates
-- Classes & Member Functions
-- THe Rule of Three
-- Law of the Big Three
-- Constructors
-- Destructors
-- Setters (Mutators) and Getters (Accessors) 
+- Introduction to Red-Black trees
+- Properties of Red-Black Trees
+- Advantages Over AVL Trees
+- Structure of Red-Black Trees
+- Red-Black Tree Node Structure
+- Insertion in Red-Black Trees
+- Handling Violations During Insertion
+- Example: Insertion Case Handling
+- Deletion in Red-Black Trees
+- Basic Outline of Deletion
+- Example: Deletion Case Handling
+- Maintaining Balance
+
+---
+
+#### 10. [Parallel Computing](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(10)%20Parallel%20Computing)
+
+**Lecture Topics:**
+- Intro to Parallel Programming
+- Writing Parallel Programs
+- Coordination in Parallel Programs
+- Memory Models
+- Foster's Methodology for Parallel Programming
+- OpenMP for Shared Memory Multithreading
+- Scope in OpenMP
+- Synchronization in OpenMP
+- Measuring Performance
+  
   
 ---
 
-#### 9.5. [Streams & File Processing in C++](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(9.5)%20Streams%20%26%20File%20Processing%20C%2B%2B)
+#### 11. [Hashing](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(11)%20Hashing)
 
 **Lecture Topics:**
-- What is a Stream?
-- Classic Streams vs Standard Streams
-- File Processing Algorithm
-- File Streams in C++
-- Complete Example of File Streams in C++
+- 
+
+---
+
+#### 12. [Hashing Basics](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(12)%20Hashing%20Basics)
+
+**Lecture Topics:**
+- 
   
 ---
 
-#### 10. [Classes - A Deeper Look](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(10)%20Classes%20-%20A%20Deeper%20Look)
+#### 13. [Heaps](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(13)%20Heaps)
 
 **Lecture Topics:**
-- Composition Relationship
-- const Objects
-- const Member Functions
-- Copy Constructors for const Objects
-- the 'this' Pointer
-
-
----
-
-#### 11. [Operator Overloading](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(11)%20Operator%20Overloading)
-
-**Lecture Topics:**
-- What is Operator Overloading?
-- Rules and Restrictions on Operator Overloading
-- Which Operators Cannot be Overloaded?
-- Why Non-members Overloaded Operators?
-
----
-
-#### 12. [Inheritance](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(12)%20Inheritance)
-
-**Lecture Topics:**
-- Introduction to Inheritance
-- Base Class, Derived Class
-- Types of Inheritance
-  - Public inheritance
-  - Protected Inheritance
-  - Private Inheritance
-- Complete Example on inheritance
+- 
   
 ---
 
-#### 13. [Polymorphism](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(13)%20Polymorphism)
+#### 14. [Sorting Algorithms](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(14)%20Sorting%20Algorithms)
 
 **Lecture Topics:**
-- Introduction to Polymorphism
-- Types of Polymorphism
-- Compile-time Polymorphism
-  - Function Overloading
-  - Operator Overloading
-- Run-time Polymorphism
-- Virtual Functions
-- Pure Virtual Functions and Abstract Classes
-  
----
-
-#### 14. [Templates](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(14)%20Templates)
-
-**Lecture Topics:**
-- Class Scope and Accessing Class Members Explored Further
-- Access Functions
-- Utility Functions
-- Container Classes
-- Properties of STL Sequence Containers
-- Properties of STL Container Adapters
-- Functions Common to Container Classes
-- Iterators
-- Class Templates 
+- 
 
 ---
 
-#### 15. [Exception Handling](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(15)%20Exception%20Handling)
+#### 15. [Disjoint Sets](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(15)%20Disjoint%20Sets)
 
 **Lecture Topics:**
-- Introduction to Exception Handling
-- Exception
-- Try Block
-- Catch Block
-- Throw Statment
-- Standard Exceptions
-- Examples of Exception Handling
-- Standard Exceptions
-- Multiple Catch Blocks
-- Catch-All Handler
-- Rethrowing Exceptions
-- Custom Exceptions 
+- 
 
 ---
 
-#### 16. [Abstract Data Types](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(16)%20Abstract%20Data%20Types)
+#### 16. [Graphs](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs)
 
 **Lecture Topics:**
-- Introduction to Abstract Data Types
-- Defintion of ADTs
-- Benefits of ADTs
-  - Encapsulation
-  - Modularity
-  - Reuseability
--  Examples of ADTs
+- 
 
 ---
 
-#### 17. [Hash Table](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(17)%20Hash%20Table)
+#### 17. [NP-Completeness](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(17)%20NP-Completeness)
 
 **Lecture Topics:**
-- Hash Function
-- Collision Handling
-- Load Factor
-- Example of Hash Table with Chaining
-  - Hash Table Interface
-  - Hash Table Implemation using Chaining 
+- 
 
 ---
 
-#### 18. [Sorting](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(18)%20Sorting)
+#### 18. [Course Conclusion](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(18)%20Course%20Conclusion)
 
 **Lecture Topics:**
-- Introduction to Sorting
-- Key Concepts
-  - Stability
-  - In-place Sorting
-  - Time Complexity
-- Common Sorting Algorithms
-  - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
+- 
   
 
 ---
 
-#### 19. [Algorithm Analysis](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(19)%20Algorithm%20Analysis)
 
-**Lecture Topics:**
-- Efficiency of Algorithms
-- Sequential Search Algorithm
-- Order of Magnitude("Big-O")
-- Selection Sort
-- Space Analysis
-- Binary Search
-- Example Code 
 
