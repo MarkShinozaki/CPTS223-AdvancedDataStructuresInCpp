@@ -1,5 +1,5 @@
 
-# Programming Assignments
+# Homework Solutions 
 
 #### [Homework 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%201)
   
