@@ -142,49 +142,93 @@
 #### 11. [Hashing](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(11)%20Hashing)
 
 **Lecture Topics:**
-- 
+- Advanced Hashing Techniques
+- Rehashing
+- Hash Tables in STL
+- Applications of Hash Tables
 
 ---
 
 #### 12. [Hashing Basics](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(12)%20Hashing%20Basics)
 
 **Lecture Topics:**
-- 
+- Hash Table Overview
+- Hash Function
+- Load Factor
+- Collision Resolution
+- Rehashing 
   
 ---
 
 #### 13. [Heaps](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(13)%20Heaps)
 
 **Lecture Topics:**
-- 
+- Motivation and Applications
+- Priority Queue Specifications
+- Binary Heap
+- Building a Heap
+- Binary Heap Operations Analysis
+- Binomial Heaps
+- Leftist Heaps
+- Skew Heaps
   
 ---
 
 #### 14. [Sorting Algorithms](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(14)%20Sorting%20Algorithms)
 
 **Lecture Topics:**
-- 
+- Comparison-Based Sorting
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Non-Comparison-Based Sorting
+- Handling Duplicates in QuickSort
+- Small Arrays in QuickSort
 
 ---
 
 #### 15. [Disjoint Sets](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(15)%20Disjoint%20Sets)
 
 **Lecture Topics:**
-- 
+- Equivalence Relations
+- Equivalence Classes
+- Operations
+- Implementation Approaches
+- Optimized Techniques
+- Performance
+- Applications
+- Maze Generation
 
 ---
 
 #### 16. [Graphs](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs)
 
 **Lecture Topics:**
-- 
+- Types of Graphs
+- Graph Terminology
+- Graph Representation
+- Graph Traversal
+- Graph Algorithms
+- Example Applications
+- Dijkstras Algorithm 
 
 ---
 
 #### 17. [NP-Completeness](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(17)%20NP-Completeness)
 
 **Lecture Topics:**
-- 
+- NP-Completeness
+- Hard Graph Problems
+- Running Times for Hard Problems
+- Classes of Hard Problems
+- NP Problems
+- NP-Complete Problems
+- Graph Definitions and Types (briefly revisited)
+- Graph Terminology
+- Graph Representation
+- Graph Traversal
+- Examples of NP-Complete Problems That Aren't Graph Algorithms
 
 ---
 
