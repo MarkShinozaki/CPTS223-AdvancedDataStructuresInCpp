@@ -113,4 +113,4 @@
 
 - Other Requirements (10 pts):
 
-Use cmake to build the project, ensuring cross-platform compatibility.
+  - Use cmake to build the project, ensuring cross-platform compatibility.
