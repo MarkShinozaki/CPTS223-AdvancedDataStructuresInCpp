@@ -48,10 +48,19 @@
 
 #### [(18) Course Conclusion ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(18)%20Course%20Conclusion) 
 
+---
 
+### 3. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
+
+#### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
+
+#### [PA 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%202) 
+
+#### [PA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%203)
 
 --- 
-### 3. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
+
+### 4. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
 
 #### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
 
