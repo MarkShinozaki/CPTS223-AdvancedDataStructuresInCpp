@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA2/AVLNode.h
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA2/AVLTree.h
+iostream
+-
+cstdlib
+-
+AVLNode.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA2/AVLNode.h
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA2/main.cpp
+AVLTree.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA2/AVLTree.h
+vector
+-
+algorithm
+-
+random
+-
+
