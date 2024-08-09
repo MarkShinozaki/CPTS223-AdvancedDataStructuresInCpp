@@ -10,8 +10,26 @@
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Course-Information)
 
 ---
+### 2. [Helpful-Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material)
+#### [(1) CMake Installation & Examples](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
 
-### 2. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides)
+#### [(2) WSL Installation](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(2)%20WSL%20Installation)
+
+#### [(3) Intro to More Tools](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(3)%20Introduction%20to%20More%20Tools)
+
+#### [(4) Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux) 
+
+#### [(5) Math Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(5)%20Math%20Review)
+
+#### [(6) Data Structure Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(6)%20Data%20Structure%20Review)
+
+#### [(7) C++ Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(7)%20C%2B%2B%20Review)
+
+
+
+---
+
+### 3. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides)
 #### [(1) Algorithm Analysis](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(1)%20Algorithm%20Analysis) 
 
 #### [(2) Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types) 
@@ -50,17 +68,19 @@
 
 ---
 
-### 3. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
+### 4. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
 
-#### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
+#### [MA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%201) 
 
-#### [PA 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%202) 
+#### [MA 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%202) 
 
-#### [PA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%203)
+#### [MA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%203)
+
+#### [MA 4](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%204)
 
 --- 
 
-### 4. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
+### 5. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
 
 #### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
 
