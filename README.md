@@ -8,7 +8,7 @@
 ### NAVIGATION OF ALL MATERIAL 
 
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Course-Information)
-
+- #### [Textbook for Course](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook)
 ---
 ### 2. [Helpful-Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material)
 #### [(1) CMake Installation & Examples](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
@@ -68,7 +68,25 @@
 
 ---
 
-### 4. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
+### 4. [Homeworks](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks)
+
+#### [Homework 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%201)
+#### [Homework 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%202/hw2-soln)
+#### [Homework 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%203)
+#### [Homework 4](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%204/hw4-soln)
+#### [Homework 5](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%205)
+#### [Homework 6](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%206)
+#### [Homework 7](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%207)
+#### [Homework 8](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%208)
+#### [Homework 9](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%209)
+#### [Homework 10](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2010)
+#### [Homework 11](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2011)
+#### [Homework 12](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2012)
+
+
+---
+
+### 5. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
 
 #### [MA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%201) 
 
@@ -80,7 +98,7 @@
 
 --- 
 
-### 5. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
+### 6. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
 
 #### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
 
@@ -88,13 +106,13 @@
 
 #### [PA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%203) 
 
-
+---
 
 
 
 
 > [!IMPORTANT]
-> ***This Course is meant to set up your fundemental understanding of Computer Science, Soak up as much as you can, take as much notes as you can and always reach out to Andy or the current Cpts 122 professor for advice and help.***
+> ***This Course is meant to set up your fundemental understanding of Computer Science, Soak up as much as you can, take as much notes as you can and always reach out to Andy or the current Cpts 223 professor for advice and help.***
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
