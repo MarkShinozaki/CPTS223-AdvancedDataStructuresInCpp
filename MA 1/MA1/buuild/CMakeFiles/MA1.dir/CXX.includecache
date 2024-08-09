@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/header.h
+iostream
+-
+cstdlib
+-
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/queue.h
+iostream
+-
+cstdlib
+-
+header.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/header.h
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/testQueue.cpp
+testQueue.hpp
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/testQueue.hpp
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/testQueue.hpp
+iostream
+-
+cstdlib
+-
+queue.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA1/queue.h
+
