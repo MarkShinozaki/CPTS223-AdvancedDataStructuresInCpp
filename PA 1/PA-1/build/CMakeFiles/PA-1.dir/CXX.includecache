@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA-1/main.cpp
+cstring
+-
+iostream
+-
+vector
+-
+string
+-
+ostream
+-
+string
+-
+fstream
+-
+cstdlib
+-
+
