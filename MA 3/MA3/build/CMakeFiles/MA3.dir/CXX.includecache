@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA3/TwitterData.cpp
+TwitterData.hpp
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA3/TwitterData.hpp
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA3/TwitterData.hpp
+iostream
+-
+string
+-
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA3/main.cpp
+map
+-
+TwitterData.hpp
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/MA3/TwitterData.hpp
+
