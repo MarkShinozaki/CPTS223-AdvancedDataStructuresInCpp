@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/ChainingHash.h
+iostream
+-
+vector
+-
+list
+-
+stdexcept
+-
+algorithm
+-
+Hash.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/Hash.h
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/Hash.h
+math.h
+-
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/ProbingHash.h
+vector
+-
+stdexcept
+-
+Hash.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/Hash.h
+
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/main.cpp
+map
+-
+string
+-
+chrono
+-
+cassert
+-
+ChainingHash.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/ChainingHash.h
+ProbingHash.h
+/mnt/c/Users/mark-/OneDrive/LapTop - Desktop/Cpts223/PA3/ProbingHash.h
+iostream
+-
+fstream
+-
+
