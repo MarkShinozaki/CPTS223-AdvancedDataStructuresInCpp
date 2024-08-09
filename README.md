@@ -9,6 +9,7 @@
 
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Course-Information)
 - #### [Textbook for Course](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook)
+- #### [Midterms Sample Qs](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Exams)
 ---
 ### 2. [Helpful-Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material)
 
@@ -100,7 +101,7 @@
 
 --- 
 
-### 6. [Programming Assignment](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
+### 6. [Programming Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
 
 - #### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
 
