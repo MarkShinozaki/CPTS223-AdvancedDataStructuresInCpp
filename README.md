@@ -121,4 +121,4 @@
 
 ---
 
-### [Next Course - CPTS 223 - ADVANCED DATA STRUCTURES ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp)
+### [Next Course - CPTS 260 - Intro to Computer Architecture ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture)
