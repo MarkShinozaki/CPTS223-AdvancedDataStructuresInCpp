@@ -11,60 +11,62 @@
 - #### [Textbook for Course](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook)
 ---
 ### 2. [Helpful-Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material)
-#### [(1) CMake Installation & Examples](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
 
-#### [(2) WSL Installation](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(2)%20WSL%20Installation)
+- #### [(1) CMake Installation & Examples](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
 
-#### [(3) Intro to More Tools](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(3)%20Introduction%20to%20More%20Tools)
+- #### [(2) WSL Installation](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(2)%20WSL%20Installation)
 
-#### [(4) Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux) 
+- #### [(3) Intro to More Tools](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(3)%20Introduction%20to%20More%20Tools)
 
-#### [(5) Math Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(5)%20Math%20Review)
+- #### [(4) Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux) 
 
-#### [(6) Data Structure Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(6)%20Data%20Structure%20Review)
+- #### [(5) Math Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(5)%20Math%20Review)
 
-#### [(7) C++ Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(7)%20C%2B%2B%20Review)
+- #### [(6) Data Structure Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(6)%20Data%20Structure%20Review)
+
+- #### [(7) C++ Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(7)%20C%2B%2B%20Review)
 
 
 
 ---
 
 ### 3. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides)
-#### [(1) Algorithm Analysis](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(1)%20Algorithm%20Analysis) 
 
-#### [(2) Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types) 
+- #### [(1) Algorithm Analysis](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(1)%20Algorithm%20Analysis) 
 
-#### [(3) The Big Five ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(3)%20The%20Big%20Five) 
+- #### [(2) Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types) 
 
-#### [(4) Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(4)%20Trees) 
+- #### [(3) The Big Five ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(3)%20The%20Big%20Five) 
 
-#### [(5) AVL Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(5)%20AVL%20Trees) 
+- #### [(4) Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(4)%20Trees) 
 
-#### [(6) Splay Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(6)%20Splay%20Trees) 
+- #### [(5) AVL Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(5)%20AVL%20Trees) 
 
-#### [(7) B-Tree ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(7)%20B-Tree) 
+- #### [(6) Splay Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(6)%20Splay%20Trees) 
 
-#### [(8) Trees - Set & Map ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(8)%20Trees%20-%20Set%20%26%20Map) 
+- #### [(7) B-Tree ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(7)%20B-Tree) 
 
-#### [(9) Trees - Red & Black ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(9)%20Trees%20-%20Red-Black) 
+- #### [(8) Trees - Set & Map ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(8)%20Trees%20-%20Set%20%26%20Map) 
 
-#### [(10) Parllel Computing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(10)%20Parallel%20Computing) 
+- #### [(9) Trees - Red & Black ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(9)%20Trees%20-%20Red-Black) 
 
-#### [(11) Hashing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(11)%20Hashing) 
+- #### [(10) Parllel Computing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(10)%20Parallel%20Computing) 
 
-#### [(12) Hashing Basics](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(12)%20Hashing%20Basics) 
+- #### [(11) Hashing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(11)%20Hashing) 
 
-#### [(13) Heaps ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(13)%20Heaps) 
+- #### [(12) Hashing Basics](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(12)%20Hashing%20Basics) 
 
-#### [(14) Sorting Algorithms ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(14)%20Sorting%20Algorithms) 
+- #### [(13) Heaps ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(13)%20Heaps) 
 
-#### [(15) Disjoint Sets ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(15)%20Disjoint%20Sets) 
+- #### [(14) Sorting Algorithms ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(14)%20Sorting%20Algorithms) 
 
-#### [(16) Graphs ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs) 
+- #### [(15) Disjoint Sets ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(15)%20Disjoint%20Sets) 
 
-#### [(17) NP Completeness ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(17)%20NP-Completeness) 
+- #### [(16) Graphs ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs) 
 
-#### [(18) Course Conclusion ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(18)%20Course%20Conclusion) 
+- #### [(17) NP Completeness ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(17)%20NP-Completeness) 
+
+- #### [(18) Course Conclusion ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(18)%20Course%20Conclusion) 
 
 ---
 
@@ -110,7 +112,7 @@
 
 
 > [!IMPORTANT]
-> ***This Course is meant to set up your fundemental understanding of Computer Science, Soak up as much as you can, take as much notes as you can and always reach out to Andy or the current Cpts 223 professor for advice and help.***
+> ***This Course is meant to introduce you to advanced data structures and give you better understanding how to work with new algorithms that were part of Cpts 122***
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
